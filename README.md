@@ -19,7 +19,6 @@
   
 </p>
 <br>
-<summary>My top languages</summary>
 
 | Rank | Languages |
 |-----:|-----------|
@@ -27,7 +26,7 @@
 |     2| Python    |
 |     3| SQL       |
 
-</details>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
