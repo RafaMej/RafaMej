@@ -1,6 +1,8 @@
 <h1 align="center"> Heyy, it's Rafa! 🤟🏻 </h1>
 <h3 aling="center">Computer Systems Engineering | TI Services in Megafresh Corp | Philippians 4:13 🌅 ΑΩ </h3>
 
+<img src="https://github.com/user-attachments/assets/3ccc010c-5a8c-432f-b6a1-df79b13e4d02" width="800" height="700" >
+
 ![Banner You Tube Gamer Arcade Videojuegos Pixelado Retro Negro Amarillo ](https://github.com/user-attachments/assets/3ccc010c-5a8c-432f-b6a1-df79b13e4d02)
 
 <img align="right" src="https://github.com/user-attachments/assets/af879a30-af79-4e22-91c2-1871e4314eaa" width="400" height="350" >
