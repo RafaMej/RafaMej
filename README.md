@@ -1,11 +1,16 @@
 <center>
   <h1> Heyy, it's Rafa! 🤟🏻</h1>
 </center>
+<details>
+<summary>My top languages</summary>
 
-<!--
-**RafaMej/RafaMej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| Python    |
+|     3| SQL       |
 
-Here are some ideas to get you started:
+</details>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
