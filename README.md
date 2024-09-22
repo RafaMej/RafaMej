@@ -1,6 +1,6 @@
 <h1 align="center"> Heyy, it's Rafa! 🤟🏻 </h1>
 <h3 aling="center">Computer Systems Engineering | TI Services in Megafresh Corp | Philippians 4:13 :shipit: </h3>
-<img align="right" alt="GIF" src="https://tenor.com/es-419/view/cool-computer-kid-thumbs-up-gif-5177277" width="400" height="400" />
+<img align="right" alt="GIF" src="https://tenor.com/bCiAJ.gif" width="400" height="400" />
 
 <details>
 <summary>My top languages</summary>
