@@ -1,5 +1,4 @@
-## Hi there 👋
-</center>
+<center>
   <h1> Heyy, it's Rafa! 🤟🏻</h1>
 
   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, inventore. Culpa, rerum neque. Necessitatibus quod velit vitae unde sed? Expedita consequuntur ea quis reiciendis nobis distinctio quod deserunt doloremque in.
