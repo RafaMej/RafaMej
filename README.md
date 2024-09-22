@@ -1,5 +1,5 @@
 <h1 align="center"> Heyy, it's Rafa! 🤟🏻 </h1>
-<h3 aling="center">Computer Systems Engineering | TI Services in Megafresh Corp | Philippians 4:13 </h3>
+<h3 aling="center">Computer Systems Engineering | TI Services in Megafresh Corp | Philippians 4:13 :shipit: </h3>
 ![Meme.]
 (https://tenor.com/es-419/view/cool-computer-kid-thumbs-up-gif-5177277))
 <details>
