@@ -1,9 +1,7 @@
 <center>
   <h1> Heyy, it's Rafa! 🤟🏻</h1>
 
-  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, inventore. Culpa, rerum neque. Necessitatibus quod velit vitae unde sed? Expedita consequuntur ea quis reiciendis nobis distinctio quod deserunt doloremque in.
-
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, inventore. Culpa, rerum neque. Necessitatibus quod velit vitae unde sed? Expedita consequuntur ea quis reiciendis nobis distinctio quod deserunt doloremque in.</p>
+  <p>GG's</p>
 
   <h3>How we work</h3>
 
