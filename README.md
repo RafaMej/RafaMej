@@ -3,6 +3,18 @@
 
 <img align="right" src="https://github.com/user-attachments/assets/af879a30-af79-4e22-91c2-1871e4314eaa" width="400" height="350" >
 
+<h2>About me</h2>
+<ul>
+  <li>🙋🏻‍♂️ 18 years</li>
+  <li>🚀 Ambitious</li>
+  <li>🇲🇽 Mexican</li>
+  <li>🇺🇸 Looking for internships</li>
+  <li>🏫 Universidad de las Americas Puebla</li>
+  <li>👩🏻‍💻 Software Developer</li>
+  <li>📱 Content Creator</li>
+  <li>🗣️ Spanish, English and French</li>
+<ul>
+  
 <summary>My top languages</summary>
 
 | Rank | Languages |
