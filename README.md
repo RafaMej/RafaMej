@@ -1,6 +1,6 @@
 <h1 align="center"> Heyy, it's Rafa! 🤟🏻 </h1>
 <h3 aling="center">Computer Systems Engineering | TI Services in Megafresh Corp | Philippians 4:13 :shipit: </h3>
-<img align="right" alt="GIF" src="https://private-user-images.githubusercontent.com/74038190/325895940-dad5d025-91c3-43b9-9a3d-1c9266f77cb7.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjcwMzY4NTcsIm5iZiI6MTcyNzAzNjU1NywicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU5NDAtZGFkNWQwMjUtOTFjMy00M2I5LTlhM2QtMWM5MjY2Zjc3Y2I3LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTIyVDIwMjIzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJjMTI3MmNiNjE2MjU1MmQ1NWU5NjMwNDk5ZWVhNTViZTU2ZDVlNTFlNDBmZDA1N2YyMTAxNTUyNjI0ZDMyYjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.93Tiw-ZGY5khzPi5Vxjt_yJ9zeBZtIhso56XfPvhCXw)" width="400" height="400" />
+<img align="right" alt="GIF" src="hi.gif" width="400" height="400" />
 
 <details>
 <summary>My top languages</summary>
