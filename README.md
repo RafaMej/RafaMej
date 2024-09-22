@@ -1,7 +1,7 @@
 <h1 align="center"> Heyy, it's Rafa! 🤟🏻 </h1>
 <h3 aling="center">Computer Systems Engineering | TI Services in Megafresh Corp | Philippians 4:13 🌅 ΑΩ </h3>
 
-<img align="right" src="https://github.com/user-attachments/assets/af879a30-af79-4e22-91c2-1871e4314eaa" width="400" height="400" >
+<img align="left" src="https://github.com/user-attachments/assets/af879a30-af79-4e22-91c2-1871e4314eaa" width="400" height="350" >
 
 <summary>My top languages</summary>
 
