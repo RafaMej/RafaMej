@@ -1,5 +1,5 @@
 <h1 align="center"> Heyy, it's Rafa! 🤟🏻 </h1>
-<h3 aling="center">Computer Systems Engineering | TI Services in Megafresh Corp | Philippians 4:13 <div class="tenor-gif-embed" data-postid="5177277" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/cool-computer-kid-thumbs-up-gif-5177277">Cool Computer GIF</a>from <a href="https://tenor.com/search/cool-gifs">Cool GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> </h3>
+<h3 aling="center">Computer Systems Engineering | TI Services in Megafresh Corp | Philippians 4:13 <img src="[https://tenor.com/view/cool-computer-kid-thumbs-up-gif-5177277]" alt="computer" width="35"> </h3>
 <details>
 <summary>My top languages</summary>
 
