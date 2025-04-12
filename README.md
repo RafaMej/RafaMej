@@ -32,6 +32,7 @@
 ### 🗃 &nbsp;Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-%2300599C.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 ### 🧰 &nbsp;Version Control & Tools 
 
