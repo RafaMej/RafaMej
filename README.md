@@ -1,5 +1,5 @@
 <h1 align="center"> Heyy, it's Rafa! 🤟🏻 </h1>
-<h3 aling="center">Computer Systems Engineering | TI Services in Megafresh Corp | Philippians 4:13 🌅 ΑΩ </h3>
+<h3 aling="center">Computer Systems Engineering | Pretty Smart Labs | TI Services | Philippians 4:13 🌅 ΑΩ </h3>
 
 <img src="https://github.com/user-attachments/assets/3ccc010c-5a8c-432f-b6a1-df79b13e4d02" width="1020" height="500" >
 
